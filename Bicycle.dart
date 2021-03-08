@@ -1,6 +1,6 @@
 class Bicycle {
   int cadence;
-  int _speed = 0;
+  int _speed = 87;
   int get speed => _speed;
   int gear;
 
